@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "email": "alessandro.brugioni@gmail.com",
+      "password": "$2a$10$oAzO.4hLnHRAcifYpp/b4OZNSHPm6m4sKKqkOMakpqnimcC3ZOz3O",
+      "sesso": "Leanne Graham",
+      "cap": "35234",
+      "iban": "IT20V0306234210000000759191",
+      "privacy": false,
+      "id": 1
+    }
+  ]
+}
